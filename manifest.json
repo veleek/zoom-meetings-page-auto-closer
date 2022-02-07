@@ -74,7 +74,8 @@
         "*://*.zoomgov.com/y/*",
         "*://*.zoomgov.com/z/*",
         "*://*.zoomgov.com/postattendee*",
-        "*://*.zoomgov.com/wc/leave*"
+        "*://*.zoomgov.com/wc/leave*",
+        "*://vpn-cph.unity3d.com/SAML20/SP/ACS"
       ],
       "js": [
         "src/content.js"
